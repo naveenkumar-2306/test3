@@ -7,6 +7,8 @@ void main()
 {
 printf("Fork the file and add a extra comment in c.txt file");
 
+printf("Merging the upstream to the forked personal repository");
+
 
 
 }
