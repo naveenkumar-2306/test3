@@ -1,3 +1,0 @@
-// Create a java file
-
-Editing the content in the java.txt file in the personal account and i check for if it replicate it on the upstream 
